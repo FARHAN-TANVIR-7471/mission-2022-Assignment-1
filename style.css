@@ -1,0 +1,103 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+section{
+    height: 400px;
+    padding-bottom: 100px;
+}
+
+h1{
+    font-size: 60px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+span{
+    color: rgba(210, 169, 34, 0.66);
+}
+
+.with-hup{
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+}
+.with-hup p{
+    color: rgb(12, 12, 12);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.with-hup img{
+    margin: 0 auto;
+    width: 59%;
+}
+
+.button-sty{
+    text-decoration: none;
+    background: linear-gradient(45deg, lightsalmon, rgb(242, 132, 112));
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+}
+
+.title-broder{
+    padding-left: 15px;
+    border-left: 3px solid;
+    margin-top: 100px;
+    border-image: linear-gradient(#f6b73c, #9f9a0c) 30;
+    border-image-slice: 1;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.div-thai{
+    width: 80%;
+    margin-left: 10%;
+}
+
+.div-thai h3{
+    padding-left: 15px;
+    font-size: 20px;
+}
+
+.div-thi-group{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    border-radius: 15px;
+    height: 300px;
+}
+
+.div-thai .div-thi-group p{
+    padding-left: 15px;
+    padding-right: 15px;
+    color: rgb(28, 27, 27);
+}
+
+.div-thai img{
+    margin: 0 auto;
+    width: 35%;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.mission{
+    background-color: burlywood;
+}
+
+.vission{
+    background-color: rgb(139, 222, 135);
+}
+
+.goals{
+    background-color: rgb(135, 145, 222);
+}
+
