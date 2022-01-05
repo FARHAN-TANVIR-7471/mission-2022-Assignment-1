@@ -5,7 +5,7 @@ body{
 
 section{
     height: 400px;
-    padding-bottom: 100px;
+    padding-bottom: 80px;
 }
 
 h1{
@@ -61,6 +61,7 @@ span{
 .div-thai{
     width: 80%;
     margin-left: 10%;
+    height: 300px;
 }
 
 .div-thai h3{
@@ -73,7 +74,6 @@ span{
     float: left;
     margin-left: 1%;
     border-radius: 15px;
-    height: 300px;
 }
 
 .div-thai .div-thi-group p{
@@ -100,4 +100,26 @@ span{
 .goals{
     background-color: rgb(135, 145, 222);
 }
+
+.with-image{
+    width: 30%;
+    float: left;
+    margin-left: 1%;
+    border-radius: 15px;
+    height: 300px;
+}
+
+.with-content{
+    width: 50%;
+    float: left;
+    /* margin-left: 1%; */
+    border-radius: 15px;
+    height: 300px;
+}
+
+.with-image img{
+    width: 80%;
+}
+
+
 
