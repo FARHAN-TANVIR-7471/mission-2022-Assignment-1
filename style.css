@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Yeseva One', cursive;
 }
 
 section{
@@ -102,7 +102,7 @@ span{
 }
 
 .with-image{
-    width: 30%;
+    width: 40%;
     float: left;
     margin-left: 1%;
     border-radius: 15px;
@@ -117,12 +117,17 @@ span{
     height: 300px;
 }
 
+.with-content a{
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+
 .text-right{
     text-align: right;
 }
 
 .with-image img{
-    width: 80%;
+    width: 60%;
 }
 
 footer{
