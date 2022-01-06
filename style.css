@@ -117,9 +117,19 @@ span{
     height: 300px;
 }
 
+.text-right{
+    text-align: right;
+}
+
 .with-image img{
     width: 80%;
 }
 
-
+footer{
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
